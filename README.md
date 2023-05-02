@@ -4,10 +4,9 @@ Markup : * model complexity:d ∈ {0, 1, 2, . . . , 20}
           * sample size: N ∈ {2, 5, 10, 20, 50, 100, 200}
           * standard deviation: σ ∈ {0.01, 0.1, 1}
           
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+* Bullet list
+* Nested bullet
+                  
           
 
 ### getData function:
