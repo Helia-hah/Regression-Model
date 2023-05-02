@@ -1,6 +1,6 @@
 # Regression-Model
 In this project a polynomial regression model was implemented and the built model was evaluated based on following parameters: <br />
- Markup : * model complexity:d ∈ {0, 1, 2, . . . , 20} 
+Markup : * model complexity:d ∈ {0, 1, 2, . . . , 20} 
           * sample size: N ∈ {2, 5, 10, 20, 50, 100, 200}
           * standard deviation: σ ∈ {0.01, 0.1, 1}
           
