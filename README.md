@@ -15,6 +15,9 @@ In this function, the input points are converted to a matrix with N × d that co
 ### MSE function:
 The mean square error (MSE) for a given dataset is calculated.<br />
 
+<br />
 In the GD, SGD, and Mini_BSGD functions, gradient descent, stochastic gradient descent, and mini-batch gradient, respectively are implemented manually. No packages was used in this implementation.
 
+### fitData Function:
+The polynomial coefficients are estimated by fitting a given dataset to a degree-d polynomial.
 
