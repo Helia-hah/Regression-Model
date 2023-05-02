@@ -1,4 +1,4 @@
-In PR_nonReg file, polynomial regression and in PR_Reg file, polynomial regression with weight decay regularization were implemented
+In PR_nonReg file, polynomial regression and in PR_Reg file, polynomial regression with weight decay regularization were implemented.
 
 # Regression-Model
 In this project a polynomial regression model (Y = a<sup> 0</sup> + a<sub> 1</sub>X + a<sub> 2</sub>X<sup> 2</sup> + . . . + a<sub> d</sub>X<sup> d</sup>) was implemented and the built model was evaluated based on following parameters: <br />
