@@ -1,7 +1,7 @@
 # Regression-Model
 
 ### getData function:
-In this project the dataset was generated based on the following formula: <br />
+In this function, for a given value of N and σ<sup> 2</sup>, the dataset with a set of N (X, Y)(denoted as {(xi, yi) : i = 1, 2, . . . N}) pairs was generated based on the following formula: <br />
 Y = cos(2πX) + Z <br />
-Where X and Y are random variables that take real values, with X specifically taking values in the interval (0, 1) and Z is a zero mean Gaussian random variable with variance σ<sup> 2</sup>.
+Where X values are drawn uniformly at random from (0, 1) and Z is a zero mean Gaussian random variable with variance σ<sup> 2</sup>.
 
